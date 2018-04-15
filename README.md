@@ -23,3 +23,9 @@ AWS/Payara Playground
         <mirrorOf>central</mirrorOf>
     </mirror>
 ```
+
+## Avignon
+AWS/Wildfly-Swarn Playground
+
+* mvn -B archetype:generate -DarchetypeArtifactId=maven-archetype-webapp -DgroupId=net.robotmodel67.discovery -DartifactId=Avignon
+* mvn wildfly-swarm:run
