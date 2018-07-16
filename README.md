@@ -29,3 +29,18 @@ AWS/Wildfly-Swarn Playground
 
 * mvn -B archetype:generate -DarchetypeArtifactId=maven-archetype-webapp -DgroupId=net.robotmodel67.discovery -DartifactId=Avignon
 * mvn wildfly-swarm:run
+
+2018-07-16
+https://www.microsoft.com/net/learn/apps/machine-learning-and-ai/ml-dotnet
+
+Editar el archivo \api\v1\certificado.php
+
+Reemplazar todas las ocurrencias de:
+
+$this->mail->setFrom('robotmodel67@gmail.com', 'ATLAS a un click!');
+
+por
+
+$this->mail->setFrom($settings['correo_notificacion'];, 'ATLAS a un click!');
+
+Y volvemos a prbar
