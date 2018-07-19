@@ -33,14 +33,17 @@ AWS/Wildfly-Swarn Playground
 2018-07-16
 https://www.microsoft.com/net/learn/apps/machine-learning-and-ai/ml-dotnet
 
-Editar el archivo \api\v1\certificado.php
+https://coderprog.com/sql-server-2017-machine-learning-services-r/
+https://coderprog.com/intelligent-mobile-projects-tensorflow/
+https://coderprog.com/python-statistics-essential-training/
 
-Reemplazar todas las ocurrencias de:
+https://coderprog.com/building-microservices-aws-video/
 
-$this->mail->setFrom('robotmodel67@gmail.com', 'ATLAS a un click!');
+https://coderprog.com/all-about-nodejs-video/
+https://coderprog.com/react-components-context-accessibility/
 
-por
+https://coderprog.com/complete-python-3-masterclass-journey/
 
-$this->mail->setFrom($settings['correo_notificacion'];, 'ATLAS a un click!');
+https://coderprog.com/learn-hcking-windows-using-metasploit/
 
-Y volvemos a prbar
+https://coderprog.com/troubleshooting-go-application-development/
