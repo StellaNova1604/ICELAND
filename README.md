@@ -54,55 +54,6 @@ https://coderprog.com/learn-hcking-windows-using-metasploit/
 
 https://coderprog.com/troubleshooting-go-application-development/
 
-(I Just) Died in Your Arms		Cutting Crew
-Amanda							Boston
-I Don't Want to Live Without 	Foreigner
-All by Myself					Eric Carmen
-Runaway							Bon Jovi
-Arms wide open					Creed
-Again							Lenny Kravitz
-Heaven							Warrant
-Never Tear Us Apart				INXS
-Against All Odds (Take a Look at Me Now)	Phil Collins
-Here I Go Again					Whitesnake
-Don't Cry						Guns N' Roses
-Something to Believe In			Poison
-18 and Life						Skid Row
-Love Hurts						Nazareth
-Hard to Say I'm Sorry			Chicago
-Black Velvet					Alannah Myles
-Run to You						Bryan Adams
-The Lady in Red					Chris DeBurgh
-Don't Know What You Got (Till It's Gone)	Cinderella
-Dream On						Aerosmith
-Bed of roses					Bon Jovi
-Every Rose Has Its Thorn		Poison
----
-Missing You						John Waite
-Love of a Lifetime				Firehouse
-Rosanna							Toto
-Pushing On						Oliver $ & Jimi Jules
-
-
-
-WHATEVER IT TAKES - IMAGINE DRAGONS
-Beam Me Up (Kill Mode				Cazzette
-Scream & Shoutwill.i.am feat. 		Britney Spears
-Runaway (U & I)						Galantis
-Fade in the Darkness				Avicii
-language							Poter robinson
-Kanye								The Chainsmokers feat. Siren
-Do It Again							Röyksopp & Robyn
-King								Years & Years
-Cinema								Benny Benassi feat. Gary Go
-Instant Crush						Daft Punk feat. Julian Casablancas
-All My Love							Cash Cash feat. Conor Maynard
-City of Dreams [original mix]		Dirty South & Alesso feat. 
-Red Lights							Tiesto
-Ain't Nobody (Love Me Better)		Felix Jaehn feat. Jasmine Thompso
-
-
-
 https://coderprog.com/mathematical-foundation-ai-machine-learning/
 https://coderprog.com/hands-nlp-nltk-scikit-learn-video/
 https://coderprog.com/beginners-guide-r-programming-video/
