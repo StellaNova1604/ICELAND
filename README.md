@@ -62,3 +62,9 @@ https://coderprog.com/python-tips-tricks-techniques-video/
 
 
 https://stackoverflow.com/jobs/161873/software-engineer-product-development-britecore?med=clc
+
+
+Move Ya Body					Nina Sky feat. Jabba
+Get Lucky						Daft Punk feat. Pharrell Williams
+Where Do You Go					No Mercy
+Let You Be Right				Meghan Trainor
