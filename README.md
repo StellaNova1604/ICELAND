@@ -57,3 +57,8 @@ https://coderprog.com/troubleshooting-go-application-development/
 https://coderprog.com/mathematical-foundation-ai-machine-learning/
 https://coderprog.com/hands-nlp-nltk-scikit-learn-video/
 https://coderprog.com/beginners-guide-r-programming-video/
+https://coderprog.com/hands-web-development-javascript-video/
+https://coderprog.com/python-tips-tricks-techniques-video/
+
+
+https://stackoverflow.com/jobs/161873/software-engineer-product-development-britecore?med=clc
