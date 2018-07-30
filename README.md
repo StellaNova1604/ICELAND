@@ -30,6 +30,34 @@ AWS/Wildfly-Swarn Playground
 * mvn -B archetype:generate -DarchetypeArtifactId=maven-archetype-webapp -DgroupId=net.robotmodel67.discovery -DartifactId=Avignon
 * mvn wildfly-swarm:run
 
+2018-07-30
+https://coderprog.com/application-development-spring-5-angular-6/
+https://coderprog.com/building-rest-apis-python-video/
+https://coderprog.com/aws-cloud-security-video/
+https://coderprog.com/java-machine-learning-computer-vision/
+https://coderprog.com/learning-python-data-science-video/
+https://coderprog.com/hands-webpack-react-development-video/
+https://coderprog.com/learning-apache-storm-big-data-processing/
+https://coderprog.com/architecting-azure-compute-infrastructure/
+https://coderprog.com/building-microservices-nodejs-video/
+https://coderprog.com/building-serverless-applications-spring-aws/
+https://coderprog.com/python-tips-tricks-techniques-video/
+https://coderprog.com/hands-web-development-javascript-video/
+
+https://coderprog.com/beginning-responsive-web-development-html-css/
+https://coderprog.com/rxjava-design-patterns-android-developers/
+https://coderprog.com/learning-c-video/
+https://coderprog.com/test-driven-infrastructure-chef/
+
+https://coderprog.com/ux-design-example-video/
+https://coderprog.com/statistical-methods-applied-mathematics-data-science/
+https://coderprog.com/hands-beginners-guide-big-data-hadoop-3/
+https://coderprog.com/web-security-video/
+https://coderprog.com/beginning-app-development-tensorflow-keras-video/
+
+https://coderprog.com/react-front-to-back-video/
+
+
 2018-07-16
 https://www.microsoft.com/net/learn/apps/machine-learning-and-ai/ml-dotnet
 
