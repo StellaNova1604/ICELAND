@@ -30,6 +30,45 @@ AWS/Wildfly-Swarn Playground
 * mvn -B archetype:generate -DarchetypeArtifactId=maven-archetype-webapp -DgroupId=net.robotmodel67.discovery -DartifactId=Avignon
 * mvn wildfly-swarm:run
 
+https://coderprog.com/reactjs-flux-learn-building-projects/
+https://coderprog.com/building-android-apps-azure-video/
+https://coderprog.com/typescript-upgrades-features-video/
+https://coderprog.com/python-for-c-developer-video/
+https://coderprog.com/docker-storage-volumes-video/
+https://coderprog.com/learning-ngrx-video/
+https://coderprog.com/javascript-es6-complete-guide/
+https://coderprog.com/docker-swarm-jenkins-practical-guide/
+https://coderprog.com/scala-machine-learning-projects/
+https://coderprog.com/cryptography-application-video/
+
+https://coderprog.com/getting-started-modern-python-video/
+https://coderprog.com/troubleshooting-python-application-development/
+https://coderprog.com/techniques-python-application-development/
+https://coderprog.com/learn-design-patterns-java-video/
+https://coderprog.com/network-programming-rust-video/
+https://coderprog.com/python-beginners-hands-projects-video/
+https://coderprog.com/python-flask-bootcamp-create-websites/
+
+https://coderprog.com/ssl-certificates-web-developers/
+https://coderprog.com/practical-linux-security-solutions-video/
+https://coderprog.com/mastering-linux-security-video/
+
+https://coderprog.com/ibm-watson-beginners-video/
+https://coderprog.com/hands-application-building-graphql-video/
+https://coderprog.com/essential-machine-learning-ai-python-jupyter-notebook/
+https://coderprog.com/applied-deep-learning-tensorflow-google-cloud-ai/
+https://coderprog.com/data-science-essentials-advanced-algorithms-visualizations/
+https://coderprog.com/machine-learning-marketing-essential-training/
+https://coderprog.com/hands-deep-learning-tensorflow-video/
+
+https://coderprog.com/hands-cloud-native-java-apps-spring-boot-aws/
+https://coderprog.com/java-ee-8-high-performance-video/
+https://coderprog.com/java-json-fundamentals-video/
+
+https://coderprog.com/java-fundamentals-asynchronous-programming-completionstage/
+
+https://coderprog.com/ultimate-python-gui-programming-tkinter/
+
 2018-07-30
 https://coderprog.com/application-development-spring-5-angular-6/
 https://coderprog.com/building-rest-apis-python-video/
