@@ -28,14 +28,14 @@ $this->group('/solicitud', function () {
         });
 
         $this->get('', function (Request $request, Response $response, array $args) {
-            $sth = $this->db->prepare("SELECT *, CONVERT_TZ(fecha,'+00:00','-05:00') as fecha, MD5(id_solicitud_certificado) as code FROM solicitud_certificado ORDER BY fecha DESC");
+            $sth = $this->db->prepare("SELECT *, CONVERT_TZ(fecha,'+00:00','+00:00') as fecha, MD5(id_solicitud_certificado) as code FROM solicitud_certificado ORDER BY fecha DESC");
             $sth->execute();
             $todos = $sth->fetchAll();
             return $this->response->withJson($todos);
         });
 
         $this->get('/{id}', function (Request $request, Response $response, array $args) {
-            $sth = $this->db->prepare("SELECT *, CONVERT_TZ(fecha,'+00:00','-05:00') as fecha FROM solicitud_certificado WHERE MD5(id_solicitud_certificado)=:id");
+            $sth = $this->db->prepare("SELECT *, CONVERT_TZ(fecha,'+00:00','+00:00') as fecha FROM solicitud_certificado WHERE MD5(id_solicitud_certificado)=:id");
             $sth->bindParam("id", $args['id']);
             $sth->execute();
             $todos = $sth->fetchObject();
@@ -44,7 +44,7 @@ $this->group('/solicitud', function () {
 
 
         $this->get('/estado/{estado}', function (Request $request, Response $response, array $args) {
-            $sth = $this->db->prepare("SELECT *, CONVERT_TZ(fecha,'+00:00','-05:00') as fecha, MD5(id_solicitud_certificado) as code FROM solicitud_certificado WHERE estado=:estado ORDER BY fecha DESC");
+            $sth = $this->db->prepare("SELECT *, CONVERT_TZ(fecha,'+00:00','+00:00') as fecha, MD5(id_solicitud_certificado) as code FROM solicitud_certificado WHERE estado=:estado ORDER BY fecha DESC");
             $sth->bindParam("estado", $args['estado']);
             $sth->execute();
             $todos = $sth->fetchAll();
@@ -52,7 +52,7 @@ $this->group('/solicitud', function () {
         });
 
         $this->get('/documento/{documento}', function (Request $request, Response $response, array $args) {
-            $sth = $this->db->prepare("SELECT *, CONVERT_TZ(fecha,'+00:00','-05:00') as fecha, MD5(id_solicitud_certificado) as code FROM solicitud_certificado WHERE documento=:documento ORDER BY fecha DESC");
+            $sth = $this->db->prepare("SELECT *, CONVERT_TZ(fecha,'+00:00','+00:00') as fecha, MD5(id_solicitud_certificado) as code FROM solicitud_certificado WHERE documento=:documento ORDER BY fecha DESC");
             $sth->bindParam("documento", $args['documento']);
             $sth->execute();
             $todos = $sth->fetchAll();
@@ -60,7 +60,7 @@ $this->group('/solicitud', function () {
         });
 
         $this->get('/excel/documento/{documento}', function (Request $request, Response $response, array $args) {
-            $sth = $this->db->prepare("SELECT *, CONVERT_TZ(fecha,'+00:00','-05:00') as fecha, MD5(id_solicitud_certificado) as code FROM solicitud_certificado WHERE documento=:documento ORDER BY fecha DESC");
+            $sth = $this->db->prepare("SELECT *, CONVERT_TZ(fecha,'+00:00','+00:00') as fecha, MD5(id_solicitud_certificado) as code FROM solicitud_certificado WHERE documento=:documento ORDER BY fecha DESC");
             $sth->bindParam("documento", $args['documento']);
             $sth->execute();
 
@@ -115,7 +115,7 @@ $this->group('/solicitud', function () {
         });
 
         $this->get('/excel/estado/{estado}', function (Request $request, Response $response, array $args) {
-            $sth = $this->db->prepare("SELECT *, CONVERT_TZ(fecha,'+00:00','-05:00') as fecha, MD5(id_solicitud_certificado) as code FROM solicitud_certificado WHERE estado=:estado ORDER BY fecha DESC");
+            $sth = $this->db->prepare("SELECT *, CONVERT_TZ(fecha,'+00:00','+00:00') as fecha, MD5(id_solicitud_certificado) as code FROM solicitud_certificado WHERE estado=:estado ORDER BY fecha DESC");
             $sth->bindParam("estado", $args['estado']);
             $sth->execute();
 
@@ -170,7 +170,7 @@ $this->group('/solicitud', function () {
         });
 
         $this->get('/excel/todas', function (Request $request, Response $response, array $args) {
-            $sth = $this->db->prepare("SELECT *, CONVERT_TZ(fecha,'+00:00','-05:00') as fecha, MD5(id_solicitud_certificado) as code FROM solicitud_certificado ORDER BY fecha DESC");
+            $sth = $this->db->prepare("SELECT *, CONVERT_TZ(fecha,'+00:00','+00:00') as fecha, MD5(id_solicitud_certificado) as code FROM solicitud_certificado ORDER BY fecha DESC");
             $sth->execute();
 
             $content = $response->getBody();
