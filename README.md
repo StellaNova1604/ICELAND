@@ -135,3 +135,55 @@ Move Ya Body					Nina Sky feat. Jabba
 Get Lucky						Daft Punk feat. Pharrell Williams
 Where Do You Go					No Mercy
 Let You Be Right				Meghan Trainor
+
+*** READ
+https://code2read.com/2015/04/21/csharp-inversion-of-control-ioc-cuando-debemos-invertir-control-codigo/
+http://paulstovell.com/blog/x509certificate2
+
+*** BOOKS
+https://coderprog.com/devops-2-4-toolkit/
+https://coderprog.com/django-easy-way-step-guide/
+https://coderprog.com/java-ee-8-design-patterns-best-practices/
+https://coderprog.com/data-driven-prediction-industrial-processes-apps/
+https://coderprog.com/mongodb-administrators-guide/
+https://coderprog.com/hacker-techniques-tools-incident-handling-3rd/
+https://coderprog.com/understanding-digital-signal-processing-matlab-solutions/
+https://coderprog.com/engineering-mathematics-8th/
+https://coderprog.com/advanced-mathematical-techniques-engineering-sciences/
+https://coderprog.com/exploratory-data-analysis-matlab/
+https://coderprog.com/statistical-machine-learning-data-mining-3rd/
+https://coderprog.com/introduction-analysis-mathematics/
+https://coderprog.com/learn-ethereum-collection/
+https://coderprog.com/accelerated-net-memory-dump-analysis-3rd/
+https://coderprog.com/blockchain-quick-reference/
+
+http://www.foxebook.net/mastering-c-game-development-create-professional-and-realistic-3d-games-using-c-17/
+http://www.foxebook.net/fixing-bad-ux-designs/
+http://www.foxebook.net/unity-virtual-reality-projects-2nd-edition/
+http://www.foxebook.net/iterative-algorithms-i/
+http://www.foxebook.net/iterative-algorithms-2/
+
+
+APPS
+https://coderprog.com/build-app-react-native-expo/
+
+DATA
+https://coderprog.com/mastering-unsupervised-learning-python-video/
+https://coderprog.com/data-science-business-financial-sectors/
+
+CLOUD
+https://coderprog.com/learning-amazon-web-services-video/
+
+PLUS
+https://coderprog.com/learn-python-programming-cryptocurrency-data-analysis/
+https://coderprog.com/advanced-python-video/
+
+https://coderprog.com/building-nodejs-mongodb-applications/
+https://coderprog.com/mastering-selenium-webdriver-3x-test-automation/
+https://coderprog.com/learning-google-flutter-mobile-developers/
+https://coderprog.com/deploying-scalable-machine-learning-data-science/
+https://coderprog.com/learning-elastic-stack-video/
+https://coderprog.com/blazor-first-look-video/
+https://coderprog.com/learn-flutter-dart-build-apps/
+https://coderprog.com/react-complete-guide-projects/
+https://coderprog.com/flutter-advanced-course-video/
