@@ -30,6 +30,17 @@ AWS/Wildfly-Swarn Playground
 * mvn -B archetype:generate -DarchetypeArtifactId=maven-archetype-webapp -DgroupId=net.robotmodel67.discovery -DartifactId=Avignon
 * mvn wildfly-swarm:run
 
+
+https://coderprog.com/google-cloud-platform-development-essentials/
+https://coderprog.com/push-django-python-apps-to-heroku/
+https://coderprog.com/learning-blockchain-application-development/
+https://coderprog.com/hands-scikit-learn-machine-learning/
+https://coderprog.com/hands-cloud-native-java-apps-spring-boot-aws/
+
+https://www.base64-image.de/
+https://codebeautify.org/base64-to-image-converter
+
+
 https://coderprog.com/reactjs-flux-learn-building-projects/
 https://coderprog.com/building-android-apps-azure-video/
 https://coderprog.com/typescript-upgrades-features-video/
