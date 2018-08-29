@@ -30,6 +30,7 @@ AWS/Wildfly-Swarn Playground
 * mvn -B archetype:generate -DarchetypeArtifactId=maven-archetype-webapp -DgroupId=net.robotmodel67.discovery -DartifactId=Avignon
 * mvn wildfly-swarm:run
 
+https://docs.microsoft.com/en-us/aspnet/web-api/index
 
 https://coderprog.com/google-cloud-platform-development-essentials/
 https://coderprog.com/push-django-python-apps-to-heroku/
