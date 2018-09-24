@@ -257,3 +257,15 @@ https://coderprog.com/hands-reinforcement-learning-tensorflow-video/
 https://coderprog.com/troubleshooting-linux-administration-video/
 https://coderprog.com/microservices-azure-video/
 
+2018-09-24
+https://coderprog.com/advanced-react-patterns-video/
+
+https://coderprog.com/building-securing-restful-apis-aspnet-core/
+https://coderprog.com/creating-restful-spring-boot-microservice-jpa/
+
+https://coderprog.com/building-recommender-systems-machine-learning-ai/
+https://coderprog.com/deep-learning-face-recognition/
+https://coderprog.com/deep-learning-image-recognition/
+
+https://coderprog.com/test-automation-foundations-video/
+https://coderprog.com/docker-essential-training-security/
