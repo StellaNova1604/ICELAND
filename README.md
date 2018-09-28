@@ -269,3 +269,20 @@ https://coderprog.com/deep-learning-image-recognition/
 
 https://coderprog.com/test-automation-foundations-video/
 https://coderprog.com/docker-essential-training-security/
+
+2018-09-28
+
+https://coderprog.com/learn-python-programming-games-video/
+https://coderprog.com/securing-java-web-apps-through-authentication/
+https://coderprog.com/learn-ethical-hking/
+
+https://coderprog.com/beginners-guide-backend-development-video/
+https://coderprog.com/real-world-machine-learning-video/
+https://coderprog.com/python-programming-bible-video/
+https://coderprog.com/java-persistence-api-basics/
+https://coderprog.com/java-persistence-api-inheritance-querying/
+https://coderprog.com/mastering-practical-network-scanning-video/
+https://coderprog.com/isomorphic-javascript-mevn-stack-video/
+https://coderprog.com/hands-web-development-react-video/
+
+https://www.alkosto.com/colchon-fantasia-doble-litium-resortado-140x190-cms
