@@ -318,3 +318,16 @@ https://coderprog.com/analyzing-network-traffic-wireshark-2-6-video/
 https://coderprog.com/full-stack-swift-development-video/
 https://coderprog.com/angular-nodejs-mean-stack-guide/
 
+2018-10-02
+https://us-east-2.console.aws.amazon.com/cloud9/home/product
+
+https://coderprog.com/aws-certified-devops-engineer-domain-2-video/
+
+https://coderprog.com/java-ee-concurrency-multithreading/
+https://coderprog.com/blockchain-application-development-7-days-video/
+https://coderprog.com/functional-programming-go-video/
+https://coderprog.com/emberjs-3x-web-development-recipes-video/
+https://coderprog.com/build-program-smart-lego-mindstorm-ev3-robot/
+https://coderprog.com/blockchain-development-beginners-video/
+https://coderprog.com/bug-bounty-program-certification-video/
+
